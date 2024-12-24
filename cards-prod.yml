@@ -2,7 +2,7 @@ build:
   version: "4.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs"
+  message: "Welcome to EazyBank cards related webhook APIs"
   contactDetails:
     name: "Reine Aishwarya - cards Product Owner"
     email: "aishwaryaCards@eazybank.com"
